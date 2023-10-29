@@ -1,2 +1,2 @@
-public class SortMethod {
+public class SortMethod {//
 }
